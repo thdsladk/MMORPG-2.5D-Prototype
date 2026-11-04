@@ -1,0 +1,7 @@
+{
+  // 게임 서버 설정. 실행 파일 옆에 복사된다.
+  "Port": 7777,
+  "MaxSessions": 500,
+  "TickRate": 20,
+  "MinLogLevel": "Debug"
+}

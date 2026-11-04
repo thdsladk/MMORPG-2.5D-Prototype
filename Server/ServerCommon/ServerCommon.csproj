@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- 서버 쪽 실행 파일(GameServer, DummyClient, DataBuilder)이 함께 쓰는 코드. Unity 와는 공유하지 않는다. -->
+  <PropertyGroup>
+    <RootNamespace>Game.ServerCommon</RootNamespace>
+    <AssemblyName>Game.ServerCommon</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shared\Shared.csproj" />
+  </ItemGroup>
+
+</Project>

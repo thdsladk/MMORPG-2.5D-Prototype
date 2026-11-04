@@ -7,9 +7,37 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Unity 6 (`6000.3.22f1`), URP 기반 **2.5D MMORPG 프로토타입**. 3D 월드 + 8방향 도트 스프라이트(빌보드) 캐릭터, C# 서버 권한형 구조.
 전체 계획과 페이즈별 구현 순서는 `Docs/Plan.md`에 있다. 작업은 페이즈 단위로 진행하고, 끝나면 `Docs/PhaseLog.md`에 결과를 남긴다.
 
-- 클라이언트: 이 Unity 프로젝트. 서버: `Server/` (.NET 8 콘솔, 직접 구현 TCP + SocketAsyncEventArgs).
+- 클라이언트: 이 Unity 프로젝트. 서버: `Server/` (.NET 10 콘솔, 직접 구현 TCP + SocketAsyncEventArgs).
 - 직렬화: MemoryPack. 클라/서버 공용 코드는 `Assets/01.Scripts/Shared/` (UnityEngine 참조 금지, 서버 csproj가 링크 컴파일).
 - `.unity`, `.prefab`, `.asset` 파일은 직접 편집하지 않는다. Unity 에디터가 열려 있으면 Unity CLI(`unity command eval ...`)로 조작한다.
+
+## 코드 구조
+
+| 위치 | 어셈블리 | 내용 |
+|---|---|---|
+| `Assets/01.Scripts/Shared/` | `Game.Shared` (Unity asmdef) / `Server/Shared/Shared.csproj` (링크) | 패킷, 로그, 공용 로직. **C# 9 + netstandard2.1 범위로만 작성** (Unity 6 와 동일. 서버 빌드의 netstandard2.1 대상이 이를 검사한다) |
+| `Assets/01.Scripts/Client/` | `Game.Client` | Unity 클라이언트 |
+| `Assets/01.Scripts/Editor/` | `Game.Editor` | 에디터 도구 (임포트 규칙, 슬라이서, 폰트·머티리얼 생성) |
+| `Assets/01.Scripts/Tests/EditMode/` | `Game.Tests.EditMode` | Unity EditMode 테스트 |
+| `Assets/Plugins/MemoryPack/` | — | MemoryPack.Core 1.21.4 (netstandard2.1), System.Collections.Immutable, 소스 제너레이터(`RoslynAnalyzer` 라벨). 번호 규칙 예외 |
+| `Server/` | `Server.sln` | `GameServer`, `DummyClient`, `DataBuilder`, `ServerCommon`(서버 공용), `Shared`(링크), `Tests/Shared.Tests`(xUnit) |
+
+- `Shared.csproj`는 `netstandard2.1;net10.0` 멀티 타깃이다. MemoryPack 제너레이터가 대상마다 다른 코드를 만들기 때문(net7+ 는 C# 11 정적 추상 멤버 사용).
+- 패킷 클래스 이름: `CS_Xxx`(클라→서버), `SC_Xxx`(서버→클라). `S_` 접두어는 네이밍 검사가 `s_`(static 필드)로 보고 막는다. 번호는 `PacketId` enum.
+- 직렬화 바이트가 클라·서버에서 같은지 `SerializationProbe.ExpectedHex`로 양쪽 테스트가 확인한다. 직렬화 대상 필드를 바꾸면 이 값을 다시 구해야 한다.
+- 로그는 `Game.Shared.Logging.Log` 를 쓴다 (서버 = `ConsoleLogSink`, 클라 = `UnityLogSink`, 시작 시 연결).
+
+```bash
+dotnet build Server/Server.sln
+```
+
+```bash
+dotnet test Server/Tests/Shared.Tests
+```
+
+```bash
+dotnet run --project Server/GameServer
+```
 
 ## 폴더 규칙
 

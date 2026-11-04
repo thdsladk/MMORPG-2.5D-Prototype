@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    클라이언트(Unity)와 서버가 함께 쓰는 코드.
+    원본은 Unity 쪽 Assets/01.Scripts/Shared 이고, 여기서는 링크로만 컴파일한다.
+    Unity 6 의 C# 9 와 맞추기 위해 언어 버전·암시적 using·nullable 을 Unity 와 같게 제한한다.
+  -->
+  <PropertyGroup>
+    <RootNamespace>Game.Shared</RootNamespace>
+    <!--
+      netstandard2.1 : Unity 와 같은 대상·C# 9. Unity 에서 컴파일되는지 서버 빌드에서도 미리 확인한다.
+      net10.0        : 서버가 실행할 때 쓰는 대상. MemoryPack 이 net7+ 전용 빠른 코드를 만든다 (C# 최신).
+    -->
+    <TargetFrameworks>netstandard2.1;net10.0</TargetFrameworks>
+    <AssemblyName>Game.Shared</AssemblyName>
+    <LangVersion Condition="'$(TargetFramework)' == 'netstandard2.1'">9.0</LangVersion>
+    <LangVersion Condition="'$(TargetFramework)' != 'netstandard2.1'">latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\Assets\01.Scripts\Shared\**\*.cs" Link="%(RecursiveDir)%(Filename)%(Extension)" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MemoryPack" Version="1.21.4" />
+  </ItemGroup>
+
+</Project>

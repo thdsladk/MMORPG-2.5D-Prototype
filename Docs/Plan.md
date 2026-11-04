@@ -7,7 +7,7 @@
   3. **데이터 드리븐 스킬 + 8슬롯 덱 + "같은 스타일 3개 = 세트 보너스"**
 - 원작 IP·아트·명칭은 쓰지 않음. **무료(CC0) 에셋 기반 판타지 컨셉**으로 자체 가칭을 붙이고, 장르/메커니즘만 참고.
 - 현재 프로젝트: Unity **6000.3.22f1**, URP(PC/Mobile RP Asset), Input System, AI Navigation 설치된 **빈 템플릿**. git 미초기화.
-- 확정 사항: **직접 구현 TCP 서버(.NET 8, SocketAsyncEventArgs)**, **MemoryPack 직렬화**, **자유 이동(XZ 평면) + 서버 검증**.
+- 확정 사항: **직접 구현 TCP 서버(.NET 10, SocketAsyncEventArgs — 이 PC 에 .NET 10 만 설치돼 있어 8 에서 변경)**, **MemoryPack 직렬화**, **자유 이동(XZ 평면) + 서버 검증**.
 
 ---
 
@@ -43,11 +43,11 @@ C:\UnityProject\2.5DProject\
 │  └─ 90.ExternalAssets\  ← 외부 에셋 원본(수정 금지, 라이선스 파일 동봉)
 │      ├─ Characters\  Monsters\  Environment\  VFX\  UI\  Icons\  Fonts\  SFX\
 │      └─ (각 팩 = <작가>_<팩이름> 폴더)
-├─ Server\  (Unity 밖, .NET 8 솔루션)
+├─ Server\  (Unity 밖, .NET 10 솔루션)
 │  ├─ GameServer\       Network / Session / Job / World(Zone, AOI) / Entity / AI / Combat / Data
 │  ├─ DummyClient\      부하·자동 테스트 봇 (Shared 링크)
 │  ├─ DataBuilder\      CSV → MemoryPack .bytes 변환 (클라·서버 동일 바이너리)
-│  └─ Shared.csproj     ← Assets/Scripts/Shared/**/*.cs 를 <Compile Include Link>로 포함
+│  └─ Shared.csproj     ← Assets/01.Scripts/Shared/**/*.cs 를 <Compile Include Link>로 포함
 ├─ Data\  (원본 CSV: Character, Monster, Skill, SkillEffect, Spawn, Drop)
 └─ Docs\  (계획서, 페이즈 로그, 측정 결과)
 ```
@@ -124,7 +124,7 @@ C:\UnityProject\2.5DProject\
 ### Phase 0. 코드 기반
 - **0-1 계획 문서화**: `Docs/Plan.md`에 본 계획 복사. ✔ 커밋.
 - **0-2 asmdef 분리**: Game.Shared / Game.Client / Game.Editor (`01.Scripts` 아래). ✔ 컴파일 에러 0.
-- **0-3 서버 솔루션 생성**: `Server/` .NET 8 콘솔 GameServer, DummyClient, DataBuilder, Shared(링크 컴파일: `Assets/01.Scripts/Shared/**/*.cs`). ✔ `dotnet build` 성공.
+- **0-3 서버 솔루션 생성**: `Server/` .NET 10 콘솔 GameServer, DummyClient, DataBuilder, Shared(링크 컴파일: `Assets/01.Scripts/Shared/**/*.cs`, Unity 와 같은 C# 9 로 제한) + Shared.Tests(xUnit). ✔ `dotnet build` 성공.
 - **0-4 MemoryPack 도입(양쪽)**: 서버 NuGet, Unity는 NuGetForUnity(또는 DLL+Generator 수동). Shared에 테스트 패킷 1개. ✔ 서버·Unity EditMode 테스트에서 직렬화 왕복이 같은 바이트.
 - **0-5 공용 로깅/설정**: Shared `ILog` 인터페이스(서버=Console, 클라=Debug.Log), 서버 config(json: 포트, 틱레이트). ✔ 양쪽 로그 출력.
 

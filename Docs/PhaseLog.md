@@ -11,7 +11,7 @@
 | A-5 보강 | 대체 팩(Gamekrazzy, Sova Skeleton/Wolf, Eris Esra) 추가 | `16ce10a` |
 | A-6 | 캐릭터·몬스터 시트 303장 슬라이스 (아래) | `8f93180` |
 | A-7 | Silver TMP 폰트 에셋(Raster·SDF), UI 9-slice 자동 지정 (아래) | `0b5a783` |
-| A-8 | 확인 씬 AssetShowcase, 3D 팩 URP 머티리얼 연결, VFX 슬라이스 (아래) | 이번 커밋 |
+| A-8 | 확인 씬 AssetShowcase, 3D 팩 URP 머티리얼 연결, VFX 슬라이스 (아래) | `156e777` |
 
 ### A-6 스프라이트 시트 슬라이스
 
@@ -74,3 +74,24 @@
 - Credits: 팩·작가·라이선스·저장소 포함 여부·받는 방법을 `Docs/Credits.md` 에 정리 (Phase A 완료 시점 기준).
 
 **확인된 크기 감 (Phase 1 입력값)**: 기사 약 1.3 유닛, 스켈레톤 약 3 유닛, 늑대 약 2.5 유닛, KayKit 나무 약 4 유닛, Mini Japan 집(5 유닛으로 축소 배치). Mini Japan 원본은 집 높이 8 유닛으로 다른 팩보다 크다.
+
+## Phase 0 — 코드 기반 (2026-11-04)
+
+| 단계 | 결과 |
+|---|---|
+| 0-1 | `Docs/Plan.md`, `CLAUDE.md` 의 서버 대상을 .NET 8 → **.NET 10** 으로 변경 (이 PC 에 .NET 10 만 설치) |
+| 0-2 | asmdef: `Game.Shared`(엔진 참조 없음), `Game.Client`, `Game.Editor`, `Game.Tests.EditMode`. Unity 컴파일 에러 0 |
+| 0-3 | `Server/Server.sln`: GameServer, DummyClient, DataBuilder, ServerCommon, Shared(링크), Tests/Shared.Tests. `dotnet build` 경고·에러 0 |
+| 0-4 | MemoryPack 1.21.4 — 서버 NuGet, Unity 는 `Assets/Plugins/MemoryPack`(Core + Immutable + Generator). `SerializationProbe` 고정 바이트 테스트 |
+| 0-5 | 공용 `Log`(ILogSink), 서버 `ConsoleLogSink` + `serverconfig.json`(Port 7777, TickRate 20, MaxSessions 500), 클라 `UnityLogSink` |
+
+**MemoryPack 에서 겪은 것**
+- Shared 를 net10 으로만 빌드하면 제너레이터가 C# 11(정적 추상 멤버) 코드를 만들어 C# 9 제한과 충돌.
+- netstandard2.1 로만 빌드하면 net10 실행 시 MemoryPack net8 DLL 이 로드돼 `TypeLoadException`.
+- → `netstandard2.1;net10.0` 멀티 타깃. netstandard2.1 빌드가 "Unity 에서도 컴파일되는가"를 검사하고, 서버는 net10 빠른 경로를 쓴다.
+- Unity 6 기본 BCL 에 `System.Runtime.CompilerServices.Unsafe` 가 있어 Immutable 만 추가했다 (컴파일 에러 0 확인).
+
+**바이트 비교**: `SerializationProbe`(int, long, float, bool, 한글 문자열, int[], 구조체) → 85바이트. 서버 xUnit 2개 통과.
+Unity EditMode 테스트(`SerializationProbeEditModeTests`)는 작성·컴파일까지 완료. CLI 로 실행하던 중 에디터 응답이 멈추고 종료되어 실행 결과는 아직 없다.
+
+**네이밍**: 패킷 접두어를 `CS_`/`SC_` 로 정했다 (`S_` 는 IDE1006 이 `s_` 접두어로 보고 막음).
