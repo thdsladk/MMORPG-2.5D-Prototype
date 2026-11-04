@@ -121,12 +121,320 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SmallHit_00
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2112
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b1a40e7a6cb9458751bda25e947a2
+      internalID: 1784311858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_01
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2112
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e688468af149c41938ac5d687ba00b
+      internalID: 69332893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_02
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2112
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e1d1840a8b864297e13e4c0ecf271
+      internalID: 1783456239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_03
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 2112
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4f19f2b1a32a44e8731aa8a5c19f31
+      internalID: 337514204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_04
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2112
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f329cf5b6c6d3c4587ab9b236163486
+      internalID: -172181380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be2169686231543a2fdd0db6902d64
+      internalID: -191984273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_06
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1584
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba895952cede67f408f5990ffa674cb7
+      internalID: -1434918508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_07
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1584
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f353d00367ab64080f00a2a9683a5b
+      internalID: -173859512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_08
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1584
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27593e5b6725069499c9ef417d869fb5
+      internalID: 1795786310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_09
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1584
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7557a9978212c4eb5b6015bea04b3a
+      internalID: -909125394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_10
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1584
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8833202ad28e86941bfa72ad0d42321b
+      internalID: 109151136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5ce088af31d64ea6f4e9d5d257db4
+      internalID: -305019522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1056
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a1089398156a41a41f1b77be54fef
+      internalID: 1320658631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallHit_13
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1056
+        width: 532
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae721cfb1b28d4f806a61c471fa8fd
+      internalID: -266284883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 59ec6fc74e979084bbb7048d492a0d96
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +443,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallHit_00: 1784311858
+      SmallHit_01: 69332893
+      SmallHit_02: 1783456239
+      SmallHit_03: 337514204
+      SmallHit_04: -172181380
+      SmallHit_05: -191984273
+      SmallHit_06: -1434918508
+      SmallHit_07: -173859512
+      SmallHit_08: 1795786310
+      SmallHit_09: -909125394
+      SmallHit_10: 109151136
+      SmallHit_11: -305019522
+      SmallHit_12: 1320658631
+      SmallHit_13: -266284883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

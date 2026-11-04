@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Magma_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47b490be7650a4aa48f3f4ee437ffa
+      internalID: 299951726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_01
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 744
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14aea9fe5ec5341a9d097a48d03536
+      internalID: -159233742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_02
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 744
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d55b58ba6b5c498a30904ad30b64c
+      internalID: -1782512544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_03
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 744
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ea7e564c0e804fb10bd0428b08a28
+      internalID: -1767347972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_04
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 744
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276fb30a05f95b14e9278174b1a47450
+      internalID: -139890489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_05
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 744
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8f85a79598904a8d1f747238caddd
+      internalID: -582121546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921e1dcd918a233439d827fe13891b1c
+      internalID: 1516914162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_07
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 558
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e98f7487bafc6469406411daafbe76
+      internalID: -1693852034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_08
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 558
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1ff36bdab2ad4888cb793e867f2b4
+      internalID: 545677847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_09
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 558
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee0467e6b4b714099e31b65d2a9f51
+      internalID: -1297406713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_10
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 558
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df2a7a725d9a284485809b93dee6f3b
+      internalID: 201912341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_11
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 558
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1eb49512fdda2489ef5f28cfb44ad7
+      internalID: -205920461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea58202e253ab43b4f6a7a9dbe1d95
+      internalID: -568759310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_13
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 372
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783c0533e3a53ea40a3316f8a85eee9b
+      internalID: -1123154169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_14
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 372
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ec25a28c8d62347bdad64932e0b3f4
+      internalID: -2097105587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_15
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 372
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5f9ebced127e409d008c1bad856af
+      internalID: -2088676120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_16
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 372
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5442a7b2ab4c8f49a9e7ba0570dd6f7
+      internalID: 1175776620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_17
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 372
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c96b5a4f6d0484fa07550c91db05fe
+      internalID: -1442036347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10572727b4f3145af3fbc22fc202cb
+      internalID: 1299520717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 186
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7bff538c819f84ca730c3dc9976a2a
+      internalID: 1557784569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_20
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 186
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad881032df9b7e43a91304e6a58a408
+      internalID: 1080648283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_21
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 186
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4bba391c07ae64db26802664e9f656
+      internalID: 266436798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_22
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 186
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b81b03b0e7fa374582f3277dd896c44
+      internalID: -1112424475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_23
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 186
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ff026af5d575c46aa052cbded5654e
+      internalID: 2134668499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b5278a2bca5c40a3269c578257e83
+      internalID: 1029937871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766d9d92009be649b1e52f5fced43ba
+      internalID: -605392552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f790e54dbab624c8ffd8cb584ac493
+      internalID: 1685050920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_27
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 0
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f081f6d3b72ba438b57ad39e88e88b
+      internalID: 1265267324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_28
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae260d677e804714ca090f5253010922
+      internalID: -344051652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma_29
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 0
+        width: 381
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0ac5256883cf41b812461b8ce7619
+      internalID: 257233872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 609c731b3303c2f4b9a1352070ca19f4
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magma_00: 299951726
+      Magma_01: -159233742
+      Magma_02: -1782512544
+      Magma_03: -1767347972
+      Magma_04: -139890489
+      Magma_05: -582121546
+      Magma_06: 1516914162
+      Magma_07: -1693852034
+      Magma_08: 545677847
+      Magma_09: -1297406713
+      Magma_10: 201912341
+      Magma_11: -205920461
+      Magma_12: -568759310
+      Magma_13: -1123154169
+      Magma_14: -2097105587
+      Magma_15: -2088676120
+      Magma_16: 1175776620
+      Magma_17: -1442036347
+      Magma_18: 1299520717
+      Magma_19: 1557784569
+      Magma_20: 1080648283
+      Magma_21: 266436798
+      Magma_22: -1112424475
+      Magma_23: 2134668499
+      Magma_24: 1029937871
+      Magma_25: -605392552
+      Magma_26: 1685050920
+      Magma_27: 1265267324
+      Magma_28: -344051652
+      Magma_29: 257233872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

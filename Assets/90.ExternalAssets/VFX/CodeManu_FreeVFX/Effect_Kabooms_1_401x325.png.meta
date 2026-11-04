@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Kabooms_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21958c45fdd27b943a5b7e82458f0b9d
+      internalID: -713383874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_01
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1300
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d9d43104e2604e90c1f82e057c3d8
+      internalID: 339784828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_02
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1300
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f50e24d988d16448bf796dbb9e0ee0
+      internalID: -1101972563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_03
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1300
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d1fb25096ed7e46bffde98724eea79
+      internalID: 810847837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_04
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1300
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6a0258e4096f44b2da849a6734b05
+      internalID: -1770073468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_05
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1300
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe710897d0b20e4a9f19465537852f7
+      internalID: 941396214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3d994655d16f4f87d98672775aa91
+      internalID: -99314908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_07
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 975
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816de13d4407fe44dbd33b1dce26e998
+      internalID: 975959377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_08
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 975
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6568fa8e780cc4ab836b447d46cae7
+      internalID: 1890619732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_09
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 975
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c800df478fcb7194aa741ee1949e118b
+      internalID: 298682479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_10
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 975
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205108d3eb018514889b8490a64e59d8
+      internalID: 1984856134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_11
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 975
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e91208c2048a4b896b922935b81c7
+      internalID: -471265010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f0c6f4f392d94181bdcf8ec42318c
+      internalID: -626100268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 650
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f95b62a1c047b4c8b9c61bacb78c4b
+      internalID: -1220305030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_14
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 650
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ca70a4fb0d4b47b2292d4acd32c5b
+      internalID: -1039902043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_15
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 650
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b2d08fe8c6aa48bf875adbf63156e
+      internalID: 1651183511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_16
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 650
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf52a75a1ef224199326297dc36eae
+      internalID: -1235875659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_17
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 650
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658d5f4b3c6f59438595af3267fd964
+      internalID: -29850866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f642a57258aeec49a892b648694d652
+      internalID: -1926981767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 325
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab1c85788429f479171da81e656713
+      internalID: 151654166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_20
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 325
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69c3c1a1df5b449934485873f6dd7d
+      internalID: 571258561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_21
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 325
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57815e61eb876549b404fdcfac42e9b
+      internalID: 1404698431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_22
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 325
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874f4b762265c146a67a0c5d34afcca
+      internalID: -1425705522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_23
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 325
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e58aff3b62a84497842e9cd7169b4
+      internalID: -348054483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587ebf80ecb20140b84b13a09042916
+      internalID: 324755448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6d57324824bf4e82d18838e62a477
+      internalID: -321703076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f83e210e3eb454c92bcca494f7c22a
+      internalID: -689057757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_27
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 0
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1a10d0328d9b4c81e36bd28178f43
+      internalID: -447545805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_28
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 0
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567d26c0d9aad744b9a2d0a279c1c17
+      internalID: -1520328298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabooms_29
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 0
+        width: 401
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bb7ee6357e08e4cb6b6e8416473411
+      internalID: 290451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c90dd5d584e634142917730d6114d460
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kabooms_00: -713383874
+      Kabooms_01: 339784828
+      Kabooms_02: -1101972563
+      Kabooms_03: 810847837
+      Kabooms_04: -1770073468
+      Kabooms_05: 941396214
+      Kabooms_06: -99314908
+      Kabooms_07: 975959377
+      Kabooms_08: 1890619732
+      Kabooms_09: 298682479
+      Kabooms_10: 1984856134
+      Kabooms_11: -471265010
+      Kabooms_12: -626100268
+      Kabooms_13: -1220305030
+      Kabooms_14: -1039902043
+      Kabooms_15: 1651183511
+      Kabooms_16: -1235875659
+      Kabooms_17: -29850866
+      Kabooms_18: -1926981767
+      Kabooms_19: 151654166
+      Kabooms_20: 571258561
+      Kabooms_21: 1404698431
+      Kabooms_22: -1425705522
+      Kabooms_23: -348054483
+      Kabooms_24: 324755448
+      Kabooms_25: -321703076
+      Kabooms_26: -689057757
+      Kabooms_27: -447545805
+      Kabooms_28: -1520328298
+      Kabooms_29: 290451400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

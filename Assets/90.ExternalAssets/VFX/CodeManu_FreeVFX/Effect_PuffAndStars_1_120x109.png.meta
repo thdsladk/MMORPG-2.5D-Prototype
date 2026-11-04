@@ -121,12 +121,650 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PuffAndStars_00
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 545
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a54cc3dc187504b95c137937b1f5b8
+      internalID: -102892449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_01
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 545
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1abc79c1008846906bc19096f141d
+      internalID: -947499106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_02
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 545
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c975b96762a1814f92fdc650314db5b
+      internalID: -1445856051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_03
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 545
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082911f9414edac4b86ea1e190e128bd
+      internalID: 1092650058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_04
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 545
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2b46af8d82d2649a73192ad50e394b
+      internalID: 1166168031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_05
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 545
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ddbf366e7e41d48abbb21d133e73e6
+      internalID: -2024752156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309b0a769a546648a247f4da4e39980
+      internalID: -2055834640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_07
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7248e5e9f5fffa04095b2d24625003b3
+      internalID: -1509201582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_08
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc3e4a90773f0e428b42570de5315a0
+      internalID: 1092876343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_09
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951eb4a44d7fbaf4a8940dde2b4e4d40
+      internalID: 594638745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a3498071a20cb4bb6f6f904c5c6561
+      internalID: -1344153971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb301c4ce112d4d80a53589ec4c50c
+      internalID: 1615272778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 436
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0f4bdc5f5646c4cbc271a92db699f2
+      internalID: 161909050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e9dd29b60413468ee437fb7fb7f64
+      internalID: 143724313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1edb507b14434983c2230b302bc39
+      internalID: 661382322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b8fb5c09dfb5478e263edec0fde9d
+      internalID: -354511853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0f879fb55a9d04fae0504775383439
+      internalID: -89333027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05d1ee3800d2b4a954ff7863ae622f
+      internalID: -88336148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be27c7924b3c74bb74c9e0f9752c57
+      internalID: -2141440022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 327
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c3ba25fa25804c926d6d4f75d366c
+      internalID: 1889838197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d261dc6e7d8754d91a57b20e7c5467
+      internalID: -2031501304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b36dbc14d5dee4790ee4963f54098b
+      internalID: -385616169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f15acd4f04e06741a93c9369a9ce00b
+      internalID: 1295279173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f8e22725771d04eb7b2520e6898e11
+      internalID: -1323276841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea8604538cb61b4daf3e48b7d0f4346
+      internalID: 1261729041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f65a3dfe5a1e34caa76ace35e9e05e
+      internalID: 1535985484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 218
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7feaf47036e69e4b86620ae34b72f11
+      internalID: 1182391743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86875f39fcea95f4885a8dba2036b3ec
+      internalID: -306925771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuffAndStars_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 109
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7a30ed8b7b58c4a80bdb2e7f71912c
+      internalID: 47929731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2ff8a5f14f61ec34face971233d4dee7
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +773,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PuffAndStars_00: -102892449
+      PuffAndStars_01: -947499106
+      PuffAndStars_02: -1445856051
+      PuffAndStars_03: 1092650058
+      PuffAndStars_04: 1166168031
+      PuffAndStars_05: -2024752156
+      PuffAndStars_06: -2055834640
+      PuffAndStars_07: -1509201582
+      PuffAndStars_08: 1092876343
+      PuffAndStars_09: 594638745
+      PuffAndStars_10: -1344153971
+      PuffAndStars_11: 1615272778
+      PuffAndStars_12: 161909050
+      PuffAndStars_13: 143724313
+      PuffAndStars_14: 661382322
+      PuffAndStars_15: -354511853
+      PuffAndStars_16: -89333027
+      PuffAndStars_17: -88336148
+      PuffAndStars_18: -2141440022
+      PuffAndStars_19: 1889838197
+      PuffAndStars_20: -2031501304
+      PuffAndStars_21: -385616169
+      PuffAndStars_22: 1295279173
+      PuffAndStars_23: -1323276841
+      PuffAndStars_24: 1261729041
+      PuffAndStars_25: 1535985484
+      PuffAndStars_26: 1182391743
+      PuffAndStars_27: -306925771
+      PuffAndStars_28: 47929731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

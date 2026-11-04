@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: EldenRing_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057514c748da9784baef5599f4ae8809
+      internalID: -416929876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_01
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1700
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102df62f7f912e94f94db7ab8254885a
+      internalID: -508574111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_02
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1700
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f024592d161ea64e80cf7b46788965b
+      internalID: -1063911640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_03
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1700
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee30278620a4106439f97a17032f0165
+      internalID: -304399845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_04
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1700
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5907d531d77d6d64fb64426c4411bb41
+      internalID: 701876771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_05
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1700
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b855ef146ff384242b7b9d4c68580036
+      internalID: -1084865235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1275
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d22e38bf19094dbdc00ee456d3a4d
+      internalID: -1979117459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_07
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1275
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105b1b4f1636ea41afbd28dc65e6c35
+      internalID: 1784393340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_08
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1275
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45e8ddcec7cb7e42983798d54d0a7dd
+      internalID: 1677289850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_09
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1275
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ae78876b74a243be2b57fbb1f9870
+      internalID: -1930184098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_10
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1275
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d878aa8ae99b847850ad22b62119d1
+      internalID: -1603390722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_11
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1275
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9d0d6127c5e24381740140cada884
+      internalID: -1872853794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa112931b83ac104fb3a6ba1f148316f
+      internalID: -1599249859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 850
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc2cc7ecbd5854691d91ed60b945ed
+      internalID: -1121612088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_14
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 850
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e558728ea67154fbdcab1b318dfea4
+      internalID: 73900609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_15
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 850
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350f45c6d7f155b42879bce00aecdc2f
+      internalID: -1544423840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_16
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 850
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736dfe08a12faf428dea9b84ab43e58
+      internalID: 1194228156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_17
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 850
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171caf984b4ad4543a46a59893f7cf51
+      internalID: 1352281319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dc49c015852ed4592ecb49f4ee6aa8
+      internalID: 728151889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 425
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98c626f97437b4b9f14702e629ab78
+      internalID: 298673871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 425
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdc82897cd7aab4a81c87b7c64cba47
+      internalID: -1009577528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_21
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 425
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af0b227d0bd5dd498ce59433c674b0d
+      internalID: -1476743210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_22
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 425
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f84ee09b7a02e429e893969762ed72
+      internalID: 251494461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_23
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 425
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa878dd439a5fc4889414b7a1fb7e35
+      internalID: 1985707020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c10651022e2d4f92f4cbbd8627ed3
+      internalID: -1840557263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b2539b1185c2341b846f0084b94e20
+      internalID: 476291162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_26
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8893e45ab02c86e498fae3845abb1de3
+      internalID: 390691219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_27
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdac3c831507714888ad9530915fada
+      internalID: 825848221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_28
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0743c9fb3bd12419cc2b1456869fa8
+      internalID: -1261873345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EldenRing_29
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 0
+        width: 421
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c8247a2aea7184aa14577c0a3e8a54
+      internalID: -458189862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bdd5de704652faa43830089320750ddb
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EldenRing_00: -416929876
+      EldenRing_01: -508574111
+      EldenRing_02: -1063911640
+      EldenRing_03: -304399845
+      EldenRing_04: 701876771
+      EldenRing_05: -1084865235
+      EldenRing_06: -1979117459
+      EldenRing_07: 1784393340
+      EldenRing_08: 1677289850
+      EldenRing_09: -1930184098
+      EldenRing_10: -1603390722
+      EldenRing_11: -1872853794
+      EldenRing_12: -1599249859
+      EldenRing_13: -1121612088
+      EldenRing_14: 73900609
+      EldenRing_15: -1544423840
+      EldenRing_16: 1194228156
+      EldenRing_17: 1352281319
+      EldenRing_18: 728151889
+      EldenRing_19: 298673871
+      EldenRing_20: -1009577528
+      EldenRing_21: -1476743210
+      EldenRing_22: 251494461
+      EldenRing_23: 1985707020
+      EldenRing_24: -1840557263
+      EldenRing_25: 476291162
+      EldenRing_26: 390691219
+      EldenRing_27: 825848221
+      EldenRing_28: -1261873345
+      EldenRing_29: -458189862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

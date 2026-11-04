@@ -121,12 +121,254 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BigHit_00
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2212
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4ae95649b6b6d4580c76f6a8c58cd6
+      internalID: 1584353256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_01
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2212
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b8f0f2b14dd34ea06f1be59b852d8
+      internalID: -1191438394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_02
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2212
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e633aa451f0b478256527bfc6b9a2
+      internalID: 864955464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_03
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2212
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd02fdb84068fd4b8a4c2f32caf9281
+      internalID: -1502613822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_04
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2212
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d6cb91e20e474996797988023d5d1
+      internalID: 1275711085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1659
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b10bf1e6268b45a613e1ed2be6cd2
+      internalID: -171242977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_06
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1659
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931cc534cdfc6a488c543326056c552
+      internalID: -69730687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_07
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1659
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b360816cd48f34e83f743c02cceff1
+      internalID: 25022337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_08
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1659
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b0f7bdbf4bce478c742463aa69d68
+      internalID: 1260126477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_09
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1659
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efc79620df5534fb8221af7fa50976
+      internalID: 1056415971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHit_10
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1659
+        width: 557
+        height: 553
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed3c07942786a4dbad3b79ad8fb5d1
+      internalID: -624929393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5aa33da5063c98f4f9566357c3765594
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +377,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigHit_00: 1584353256
+      BigHit_01: -1191438394
+      BigHit_02: 864955464
+      BigHit_03: -1502613822
+      BigHit_04: 1275711085
+      BigHit_05: -171242977
+      BigHit_06: -69730687
+      BigHit_07: 25022337
+      BigHit_08: 1260126477
+      BigHit_09: 1056415971
+      BigHit_10: -624929393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

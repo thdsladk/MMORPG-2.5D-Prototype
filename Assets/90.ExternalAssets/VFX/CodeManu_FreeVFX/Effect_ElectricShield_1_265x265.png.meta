@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ElectricShield_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e7eb6dedbc5c47a923eb76ecdc024
+      internalID: 1529738516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_01
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1060
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894fbb0f119c8fd48a4ffc1a327a5f9f
+      internalID: 1155949114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_02
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1060
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a95283c45e60244b178a64c8e67ef6
+      internalID: -1165895231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_03
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1060
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959a38b870bba345a8601a331130c70
+      internalID: -1586394009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_04
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1060
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3e4d332e8fa7478009efc414cd9af
+      internalID: 890662679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_05
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1060
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05362f008ff0aa14594e7458dd81686d
+      internalID: 1414124516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f607d2093976ee4a899ced2b8435043
+      internalID: 1382182829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_07
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 795
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5280e18a11ebe42b06dbd1906f1b8e
+      internalID: -122471995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_08
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 795
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6214412bc531f54cb5fd20d9f74af78
+      internalID: 1816579442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_09
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 795
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8489c45cde6947a4148bbaf1b84fb
+      internalID: 485287708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 795
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d739c3742e67fc4482e31959e934c62
+      internalID: -187062431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_11
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 795
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b8e3560fdbe78489264aa8d04792a6
+      internalID: 1107050427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f096748cd03143a288935794b9c35
+      internalID: -2028186188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 530
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf68a059cfb1ae488fd2c4dc53ef75d
+      internalID: -1262577621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 530
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c2cf30a2016594aa3d11d6f26fae69
+      internalID: 1735394963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 530
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7940c97112bf844e8f9bd0d4aad0f83
+      internalID: 1372776650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_16
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 530
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fca4036455f3d14c964dbb75e5faab0
+      internalID: -711531696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_17
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 530
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d820f2ab3435242b578cc2526bfea2
+      internalID: -1359470214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5bab87b25a2534d9f928f73f6848a8
+      internalID: -59175982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1af44757b48ce49935be4d39cea2ac
+      internalID: 902061371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 265
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c7de1f08deb74e8777abab6caf925
+      internalID: 2119627082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 265
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a57208e0bf0c4ba1a1caf99b92503
+      internalID: -1773555135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 265
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf781bc7f8a5184f9ce26c5e86a1513
+      internalID: -916567085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_23
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 265
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35511da3bc507a541aefdba554f4516b
+      internalID: 1626681036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0ca72629c16342a5f07ca71f368cf
+      internalID: 410488417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9fadd8514a9ea4b82afe40936e6354
+      internalID: 678551682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb54d781db9a14ba94537b9acc9a8d
+      internalID: -1205477428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8471823790b5449abb2f519d51a64e
+      internalID: 2118985833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_28
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786dc19e93326274d9f80e9b3ef7f6df
+      internalID: 696243288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricShield_29
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 265
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ca2cc5f0fb0b4d953867fef72d7bc
+      internalID: 171174908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3fd99066ae962ce468cc074af6694e37
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElectricShield_00: 1529738516
+      ElectricShield_01: 1155949114
+      ElectricShield_02: -1165895231
+      ElectricShield_03: -1586394009
+      ElectricShield_04: 890662679
+      ElectricShield_05: 1414124516
+      ElectricShield_06: 1382182829
+      ElectricShield_07: -122471995
+      ElectricShield_08: 1816579442
+      ElectricShield_09: 485287708
+      ElectricShield_10: -187062431
+      ElectricShield_11: 1107050427
+      ElectricShield_12: -2028186188
+      ElectricShield_13: -1262577621
+      ElectricShield_14: 1735394963
+      ElectricShield_15: 1372776650
+      ElectricShield_16: -711531696
+      ElectricShield_17: -1359470214
+      ElectricShield_18: -59175982
+      ElectricShield_19: 902061371
+      ElectricShield_20: 2119627082
+      ElectricShield_21: -1773555135
+      ElectricShield_22: -916567085
+      ElectricShield_23: 1626681036
+      ElectricShield_24: 410488417
+      ElectricShield_25: 678551682
+      ElectricShield_26: -1205477428
+      ElectricShield_27: 2118985833
+      ElectricShield_28: 696243288
+      ElectricShield_29: 171174908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

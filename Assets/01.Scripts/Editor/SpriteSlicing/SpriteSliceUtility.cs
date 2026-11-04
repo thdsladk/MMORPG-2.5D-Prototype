@@ -29,6 +29,10 @@ namespace Game.Editor.SpriteSlicing
 
         private const byte AlphaThreshold = 8;
 
+        private static string s_cachedPath;
+        private static Color32[] s_cachedPixels;
+        private static Vector2Int s_cachedSize;
+
         public static void Apply(string assetPath, IReadOnlyList<SliceFrame> frames, Vector2 normalizedPivot)
         {
             var importer = AssetImporter.GetAtPath(assetPath) as TextureImporter;
@@ -126,6 +130,34 @@ namespace Game.Editor.SpriteSlicing
             {
                 UnityEngine.Object.DestroyImmediate(texture);
             }
+        }
+
+        // 프레임 칸이 완전히 투명한지 본다. 같은 시트를 칸마다 다시 읽지 않도록 마지막 시트 픽셀을 캐시한다.
+        public static bool IsEmpty(string assetPath, RectInt topLeftFrame)
+        {
+            if (s_cachedPath != assetPath)
+            {
+                var texture = new Texture2D(2, 2, TextureFormat.RGBA32, false);
+                texture.LoadImage(File.ReadAllBytes(assetPath));
+                s_cachedPixels = texture.GetPixels32();
+                s_cachedSize = new Vector2Int(texture.width, texture.height);
+                s_cachedPath = assetPath;
+                UnityEngine.Object.DestroyImmediate(texture);
+            }
+
+            for (int y = 0; y < topLeftFrame.height; y++)
+            {
+                int row = s_cachedSize.y - 1 - (topLeftFrame.y + y);
+                for (int x = 0; x < topLeftFrame.width; x++)
+                {
+                    if (s_cachedPixels[row * s_cachedSize.x + topLeftFrame.x + x].a >= AlphaThreshold)
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return true;
         }
 
         // 위쪽 기준 픽셀 피벗을 Unity 정규화 피벗으로 바꾼다.

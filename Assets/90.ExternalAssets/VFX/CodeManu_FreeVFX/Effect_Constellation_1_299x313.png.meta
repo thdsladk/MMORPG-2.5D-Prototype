@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Constellation_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1252
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e1dc03b32f5441be9a176ea866549
+      internalID: -1660480458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_01
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1252
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f1a7a54241dd34796c1628a43bc432
+      internalID: 832627241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_02
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1252
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e4d86f24c22d4b920cafc692fbd2c
+      internalID: 578487041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_03
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1252
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b24967d14b7b547af4069740113d49
+      internalID: -1178163976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_04
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1252
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3693ff2fe01761c4bb19790826ece968
+      internalID: -359382252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_05
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1252
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162ed80d6fc54a42825268bd9c5d60c
+      internalID: 927170678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c11eb627566939408babd7034f286fd
+      internalID: 234519017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_07
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 939
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7083f452fec3a47a60e200fdc379c7
+      internalID: 674438552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_08
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 939
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3daa49f6399244198b32f6b890454b
+      internalID: -793548757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_09
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 939
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b2c0bf349a5984492d08f9a2e07e27
+      internalID: -1227127083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_10
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 939
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f6e98dfe13bf428d7a50b60ad3641
+      internalID: -1258526654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_11
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 939
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8a4c87a10aaa4a9f67ca3ee4f7895
+      internalID: 2134254383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: added96d3ebec11479de58e4e591fcab
+      internalID: 222212220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 626
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7245bd7394e5b77438fdf0db42a964ac
+      internalID: 47215569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 626
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38f1bde1dfd8dd4d9550ad0461ff333
+      internalID: 282259888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_15
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 626
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05a8887573991b449c45ea1b6836858
+      internalID: 1489753126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_16
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 626
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595709ee62070d4482a574f0031032c
+      internalID: -193219986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_17
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 626
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d92986205f36b4297937bef512e230
+      internalID: 1967371733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c87fefe9af4e4da3381fa3b9553ff
+      internalID: -693117259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 313
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df7e0dd43f9d4458fe8a2485d863ce
+      internalID: 2039360720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 313
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3201dc29d432459cabe19b8c488de
+      internalID: 1565311204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_21
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 313
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3fb63890f20ce44a158d8848db876d
+      internalID: -74030084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_22
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 313
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d8921a9649e5438a17df931215ca6
+      internalID: 1047443365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_23
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 313
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db38c74a0ee95547bcea3881e1fd9d0
+      internalID: -731260275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794283624c0e11845b716e57bc90f660
+      internalID: -13103915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4896520ad9529dd49a10caa4a4afeb27
+      internalID: -1682809530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e9e03d9187e34294a5843c0f498aa
+      internalID: 78099951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_27
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3cccfb463d19c479096caf9fdaee72
+      internalID: 1371856576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_28
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6425e72c8379a384286f3e664768b3c4
+      internalID: -66631944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constellation_29
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 0
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7572d29cba4210479979f1da1085ef0
+      internalID: 1831136951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8ffe03a66e30b5c4a85071e29317327d
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Constellation_00: -1660480458
+      Constellation_01: 832627241
+      Constellation_02: 578487041
+      Constellation_03: -1178163976
+      Constellation_04: -359382252
+      Constellation_05: 927170678
+      Constellation_06: 234519017
+      Constellation_07: 674438552
+      Constellation_08: -793548757
+      Constellation_09: -1227127083
+      Constellation_10: -1258526654
+      Constellation_11: 2134254383
+      Constellation_12: 222212220
+      Constellation_13: 47215569
+      Constellation_14: 282259888
+      Constellation_15: 1489753126
+      Constellation_16: -193219986
+      Constellation_17: 1967371733
+      Constellation_18: -693117259
+      Constellation_19: 2039360720
+      Constellation_20: 1565311204
+      Constellation_21: -74030084
+      Constellation_22: 1047443365
+      Constellation_23: -731260275
+      Constellation_24: -13103915
+      Constellation_25: -1682809530
+      Constellation_26: 78099951
+      Constellation_27: 1371856576
+      Constellation_28: -66631944
+      Constellation_29: 1831136951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

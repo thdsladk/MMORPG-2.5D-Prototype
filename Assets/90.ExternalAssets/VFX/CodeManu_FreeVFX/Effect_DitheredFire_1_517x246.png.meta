@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DitheredFire_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567bee75e47d29847b19f03dca931f25
+      internalID: 937480104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_01
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 984
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7816a1843a9af59479f0c863bd2ed988
+      internalID: -700282472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_02
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 984
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131dad72ae773824c942d8f70c606840
+      internalID: -750896757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_03
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 984
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac3719bbc4b3f409f38c48066988d4
+      internalID: -577852715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_04
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 984
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51493f1b150b9468f8e8dcc0907bee
+      internalID: -1027255000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_05
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 984
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6695367900969469985829805cfee7
+      internalID: -1857891169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cde68b14f26cf488d385986968f462
+      internalID: 404317414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_07
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 738
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18371ac765f1545b2bdbcc4b5a5e88
+      internalID: 549133356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_08
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 738
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42306dc5b2794884cbadae81c20301a8
+      internalID: -1376017617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_09
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 738
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54466b11e71dc034e980b6d15821c8a4
+      internalID: -787807860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_10
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 738
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12ccb3ddc49614c8248b9f03b9ebb7
+      internalID: 842715762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_11
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 738
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc7800082c8f041b8d361fd987ea07
+      internalID: -1271247921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24714033d103d8c4ea84a7390dbc0553
+      internalID: 1518240865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 492
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64851615392a9a4cad82fe2700a374f
+      internalID: -1257748063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_14
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 492
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41444c4b79a16743b8f4e3920e28e81
+      internalID: 1892134313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_15
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 492
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104a48c857fec2418d018588a68f9bc
+      internalID: 2095357918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_16
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 492
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0cf9a7cfafd2b449ae4c17830a0b18
+      internalID: 1412210850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_17
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 492
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6629e450d58bee48b6fd363e2480f63
+      internalID: 593166605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642c7c754fdc3e409fb6571ce128b15
+      internalID: -733962299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 246
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3749ded4898147e40a9e33cec60da124
+      internalID: 1188213419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 246
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9277aa32e7b4ad348be15354629aa30c
+      internalID: 1859625293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_21
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 246
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab421e563621694187c0baab1eb836c
+      internalID: -826215840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_22
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 246
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293eb7db45ff5e4d814f91332fa98a4
+      internalID: 1851782024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_23
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 246
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd61e43963a844ebdb30e2d2754c5e
+      internalID: 303083562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1640820a851f97d4b8f322ba6e4ce654
+      internalID: -1610026348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08f8d9aee9ce344b60c09d6cfecf45
+      internalID: 1848619880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_26
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069131b8eb0aa5f4cb4f9a1816e5ad7c
+      internalID: -119518893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_27
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740306d34b64e1545a3f2fa553e9fa08
+      internalID: 1793345851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_28
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee64661eecb5364999a1349b8926d6e
+      internalID: -1583033295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DitheredFire_29
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 517
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd9acb1581a98459df51caecd6159b
+      internalID: 283272250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6e12cc90437c3c94c9980c24f201ca4a
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DitheredFire_00: 937480104
+      DitheredFire_01: -700282472
+      DitheredFire_02: -750896757
+      DitheredFire_03: -577852715
+      DitheredFire_04: -1027255000
+      DitheredFire_05: -1857891169
+      DitheredFire_06: 404317414
+      DitheredFire_07: 549133356
+      DitheredFire_08: -1376017617
+      DitheredFire_09: -787807860
+      DitheredFire_10: 842715762
+      DitheredFire_11: -1271247921
+      DitheredFire_12: 1518240865
+      DitheredFire_13: -1257748063
+      DitheredFire_14: 1892134313
+      DitheredFire_15: 2095357918
+      DitheredFire_16: 1412210850
+      DitheredFire_17: 593166605
+      DitheredFire_18: -733962299
+      DitheredFire_19: 1188213419
+      DitheredFire_20: 1859625293
+      DitheredFire_21: -826215840
+      DitheredFire_22: 1851782024
+      DitheredFire_23: 303083562
+      DitheredFire_24: -1610026348
+      DitheredFire_25: 1848619880
+      DitheredFire_26: -119518893
+      DitheredFire_27: 1793345851
+      DitheredFire_28: -1583033295
+      DitheredFire_29: 283272250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -121,12 +121,540 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TheVortex_00
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1724
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbceb2fdd659ba4fb0fd963ca416e2d
+      internalID: -381772419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_01
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1724
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111a338ece89c67468273e61992d24f1
+      internalID: -628170074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_02
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1724
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10da1c6ea74a64a83afd7d40ba0c61
+      internalID: -1953339632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_03
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1724
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e9fc274ef3dc9419a4149268e388f9
+      internalID: 1730783968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_04
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1724
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaec8f22c96f1343afe361672183eca
+      internalID: -1447163343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f6f4d1387fdc4ebee663361c330ba
+      internalID: 428413159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_06
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1293
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfbd13d5fda20e438617f17ed3492ee
+      internalID: -2047178280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_07
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1293
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8241079d5d013445aed743ef7da6f74
+      internalID: -1811527625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_08
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1293
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ce04f8cb027444b951ccaa02dc6bf
+      internalID: 2030709598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_09
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1293
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02286db4aca47ea43bc79ee9cce52bca
+      internalID: -576818223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_10
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1293
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b100ad0048267845a85b1bf416e93ee
+      internalID: 1073238889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29afc848ce620ea4797b9619f7f93de6
+      internalID: 2056765306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 862
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779b70060578494ba3fe86798b2ee68
+      internalID: 1945548415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 862
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3947a0bda2414fa614e3b9c586b8c
+      internalID: 1496091329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_14
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 862
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7626d10e49be04fade6f820eeb43d0
+      internalID: 1434099537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_15
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 862
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db75ffe74b3eaa42a948d8aa166d5b9
+      internalID: -1132894948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_16
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 862
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2989f45c81ae34cbe1e1155ef91262
+      internalID: -1022484681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359af6e0821606b41a732f822aa1d3ca
+      internalID: 1027492904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 431
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82afa6b9a1a46f44b770f8ece2d0c59
+      internalID: -1580619625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 431
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd40e88bcccebe4f9fb5b08c31f8d0c
+      internalID: 1589193453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 431
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaab6d7e597ab2429cb2c1a9d862e20
+      internalID: 1813077883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_21
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 431
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea30061750ccb429eb183a5596bf37
+      internalID: -1954017320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_22
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 431
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88c669418aa88468b257320c6eba37
+      internalID: -280810745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVortex_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 427
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6addd45a268104db85df39884fccd3
+      internalID: 1389585931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 07f1cfe7e372182459eeef5760a4ee50
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +663,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TheVortex_00: -381772419
+      TheVortex_01: -628170074
+      TheVortex_02: -1953339632
+      TheVortex_03: 1730783968
+      TheVortex_04: -1447163343
+      TheVortex_05: 428413159
+      TheVortex_06: -2047178280
+      TheVortex_07: -1811527625
+      TheVortex_08: 2030709598
+      TheVortex_09: -576818223
+      TheVortex_10: 1073238889
+      TheVortex_11: 2056765306
+      TheVortex_12: 1945548415
+      TheVortex_13: 1496091329
+      TheVortex_14: 1434099537
+      TheVortex_15: -1132894948
+      TheVortex_16: -1022484681
+      TheVortex_17: 1027492904
+      TheVortex_18: -1580619625
+      TheVortex_19: 1589193453
+      TheVortex_20: 1813077883
+      TheVortex_21: -1954017320
+      TheVortex_22: -280810745
+      TheVortex_23: 1389585931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

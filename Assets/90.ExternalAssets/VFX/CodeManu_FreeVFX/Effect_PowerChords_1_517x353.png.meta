@@ -121,12 +121,672 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PowerChords_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d3325edaa0d946ae63f27fbfeebe4
+      internalID: 206000617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_01
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f632b31725d5234797c81fccc616b88
+      internalID: 1008592889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_02
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12378d3260619474fb3fdea85207ee3a
+      internalID: -2001427979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_03
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0968e9bcc89fdd14b942fde3ca793920
+      internalID: -165895321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_04
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831952d3c04cbfc4da1a39202e6aa751
+      internalID: -292599241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_05
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516fadfdc765d34681e373e7894b7d4
+      internalID: 127951006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2c9405a9d33e40b9dff1c52272726
+      internalID: 1271844381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_07
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f32d63f34122e45887e55a4d58d624
+      internalID: -1493657036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_08
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db46f45b6568a4aa47820172591968
+      internalID: -126061258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_09
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73122d0aba3ebd4a989f1f4402fb315
+      internalID: 631450109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_10
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b4517e64f72d40b3edec730a82092
+      internalID: 400091556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_11
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab1b7677ecb7a40a52ced0a0bdcb7f
+      internalID: -805681516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5326c1f234cf42b30857bebd79902
+      internalID: -1730944611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 706
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace2c0fcf30054a4981d89644936a76f
+      internalID: -629068156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_14
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 706
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6441976eaf3ca4089bca213ca17b27
+      internalID: -558150409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_15
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 706
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29f1aa15350824cb042a5a3f964735
+      internalID: -846704617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_16
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 706
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a942b3a5b028564684dccf055718299
+      internalID: 283257926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_17
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 706
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c65121f93a09524f9b66d47698b66cb
+      internalID: 686400338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd6f2a32790704ead60007784a7266
+      internalID: -444487353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 353
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3f7aa9c7d35c44c86fdd0f6acc34b6
+      internalID: 57334683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 353
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a23edebb8d0e3c4d9cd5ea608a5b440
+      internalID: -105227146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_21
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 353
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208eec1d14f15be42a5abbd9b99e727e
+      internalID: 297427074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_22
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 353
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39167f4f0c1f79048bed5010d2f0c93e
+      internalID: -1003443206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_23
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 353
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9623677c40f1ea640bfd8d481cac421f
+      internalID: 999492232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3447f16e0fce91499681d62d54f6004
+      internalID: 542205705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71147d114daee52488f3c53fc9e442e2
+      internalID: 871767331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_26
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d414040ab78e4e832667567b870b6
+      internalID: -562173535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_27
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43e86b405180f247aab4e0745b03740
+      internalID: 105675745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_28
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670c5fa1d82b6d438c89fd412e093c9
+      internalID: -1468320475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerChords_29
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 517
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058ddcdfe49e1640a05dbebfdbc6758
+      internalID: -935639777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 380fdfa58bdf9424287ad693b86e6a99
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +795,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerChords_00: 206000617
+      PowerChords_01: 1008592889
+      PowerChords_02: -2001427979
+      PowerChords_03: -165895321
+      PowerChords_04: -292599241
+      PowerChords_05: 127951006
+      PowerChords_06: 1271844381
+      PowerChords_07: -1493657036
+      PowerChords_08: -126061258
+      PowerChords_09: 631450109
+      PowerChords_10: 400091556
+      PowerChords_11: -805681516
+      PowerChords_12: -1730944611
+      PowerChords_13: -629068156
+      PowerChords_14: -558150409
+      PowerChords_15: -846704617
+      PowerChords_16: 283257926
+      PowerChords_17: 686400338
+      PowerChords_18: -444487353
+      PowerChords_19: 57334683
+      PowerChords_20: -105227146
+      PowerChords_21: 297427074
+      PowerChords_22: -1003443206
+      PowerChords_23: 999492232
+      PowerChords_24: 542205705
+      PowerChords_25: 871767331
+      PowerChords_26: -562173535
+      PowerChords_27: 105675745
+      PowerChords_28: -1468320475
+      PowerChords_29: -935639777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

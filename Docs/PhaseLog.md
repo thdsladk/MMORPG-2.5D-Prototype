@@ -10,11 +10,12 @@
 | A-3~A-5 | 외부 에셋 11팩 배치, `ExternalAssetImportRules` (Point/무압축/PPU, SFX 모노·ADPCM) | `b34b69b` |
 | A-5 보강 | 대체 팩(Gamekrazzy, Sova Skeleton/Wolf, Eris Esra) 추가 | `16ce10a` |
 | A-6 | 캐릭터·몬스터 시트 303장 슬라이스 (아래) | `8f93180` |
-| A-7 | Silver TMP 폰트 에셋(Raster·SDF), UI 9-slice 자동 지정 (아래) | 이번 커밋 |
+| A-7 | Silver TMP 폰트 에셋(Raster·SDF), UI 9-slice 자동 지정 (아래) | `0b5a783` |
+| A-8 | 확인 씬 AssetShowcase, 3D 팩 URP 머티리얼 연결, VFX 슬라이스 (아래) | 이번 커밋 |
 
 ### A-6 스프라이트 시트 슬라이스
 
-- 메뉴: `Tools/Sprite/외부 캐릭터 시트 슬라이스 (전체)` (`ExternalSheetSlicer`, 2D Sprite 패키지의 Sprite Editor Data Provider 사용)
+- 메뉴: `Tools/Sprite/외부 스프라이트 시트 슬라이스 (전체)` (A-8 에서 CodeManu VFX 22장 추가, 총 325장) (`ExternalSheetSlicer`, 2D Sprite 패키지의 Sprite Editor Data Provider 사용)
 - 스프라이트 이름: `<애니메이션>_<방향>_<프레임>` — 방향은 S, SE, E, NE, N, NW, W, SW (예: `Walk_NE_03`, `Attack_W_11`)
 - 같은 이름이면 spriteID 를 재사용하므로 다시 잘라도 참조가 유지된다.
 
@@ -57,3 +58,19 @@
 - CountBar 는 왼쪽 아이콘이 border 안에 완전히 들어가지 않아 세로로 늘리면 아이콘이 찌그러진다 → 원래 높이로만 쓴다.
 
 **환경 메모**: 이 PC 에는 .NET **10** SDK/런타임만 있고 .NET 8 런타임이 없다. 서버(Phase 0-3)는 `net10.0` 으로 만들거나 .NET 8 런타임을 설치해야 한다.
+
+### A-8 확인 씬 + 크레딧
+
+- 씬: `02.Scenes/AssetShowcase.unity` — 고정 피치 38° 쿼터뷰 카메라(FOV 30), 그림자 있는 방향광, 바닥.
+  - 3D: KayKit 나무·바위·덤불, WizP 마을 소품 전체, Mini Japan 도리이·집·노점·가로등·대나무
+  - 2D: 기사(Idle S / Walk SE / Attack E), Gamekrazzy, Sova 스켈레톤·늑대, CodeManu VFX(BigHit, Charged) — 카메라 피치만큼 기울인 정적 스프라이트 (빌보드·라이팅은 Phase 1)
+  - UI: 반투명 창 + Silver Raster 38/19pt, 8칸 핫바(인벤토리 배경·슬롯 9-slice), 빈 버튼 "확인", SDF 데미지 숫자
+  - 재배포 불가 팩(WizP, Mini Japan, Sova, soiam, ELV)을 쓰므로 클론한 환경에서는 그 오브젝트가 비어 보인다. 스크린샷도 저장소에 넣지 않는다.
+- **3D 머티리얼 연결**: 메뉴 `Tools/Asset Import/외부 3D 팩 URP 머티리얼 연결` (`ExternalModelMaterialRemapper`)
+  - WizP 와 Mini Japan FBX 는 팔레트 텍스처를 찾지 못해 하얗게 나왔다. `04.Materials/Environment/<팩>/` 에 URP Lit 머티리얼(팔레트 BaseMap, 무광)을 만들고 ModelImporter remap 으로 연결 (모델 29개). 원본 FBX 는 그대로.
+  - Mini Japan 팔레트는 fbx 폴더에 없고 glTF 폴더에만 있어 `Textures/ColorPalette.png` 로 가져왔다.
+  - KayKit 은 텍스처가 FBX 에 연결돼 있어 그대로 동작.
+- **VFX 슬라이스**: CodeManu 시트는 파일 이름 끝의 `<폭>x<높이>` 가 프레임 크기 → 격자로 자르고 빈 칸은 뺀다 (`BigHit_00` …, 피벗 중심). nerijs PVFX 는 Phase 9 에서 manifest 기준으로 자른다.
+- Credits: 팩·작가·라이선스·저장소 포함 여부·받는 방법을 `Docs/Credits.md` 에 정리 (Phase A 완료 시점 기준).
+
+**확인된 크기 감 (Phase 1 입력값)**: 기사 약 1.3 유닛, 스켈레톤 약 3 유닛, 늑대 약 2.5 유닛, KayKit 나무 약 4 유닛, Mini Japan 집(5 유닛으로 축소 배치). Mini Japan 원본은 집 높이 8 유닛으로 다른 팩보다 크다.

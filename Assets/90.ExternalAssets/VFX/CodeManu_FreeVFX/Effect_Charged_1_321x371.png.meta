@@ -121,12 +121,584 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Charged_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f325f289f7634a9f9322ec095cf4e
+      internalID: 480899723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_01
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8593e2dcdbac478c4ec143a21c885
+      internalID: -1072537472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_02
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1561a14df342744b174aafced777eb
+      internalID: -1646993311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_03
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd893bbe89cc574c86ee8059dece1aa
+      internalID: 1476700050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_04
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649ed5bf54fd5c49ab2fe60a9f41a45
+      internalID: -831276822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_05
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc674d4376892c049b6ef401b8cd6456
+      internalID: 723583560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_06
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1855
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81102442f5ca846af92123806086f8
+      internalID: -2126428132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1484
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd9d814bbc2b141b21b127aa460189
+      internalID: 1091016849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_08
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1484
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad877b658e5da2f4d965e5a0ef83360e
+      internalID: 20549661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_09
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1484
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea735ee3f29635b4fa51c8aaf99ec629
+      internalID: -159198819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_10
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1484
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab5945d1e461d47804975e6c11723a
+      internalID: 943284554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_11
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1484
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd616d5e3c5019640a25cd2c63574a74
+      internalID: -161690735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_12
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 742
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1900c498663f2428eaec5440667922
+      internalID: -1860961685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_13
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 742
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37da1061c0ce24bbf54c827a0b255e
+      internalID: 128763371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11812dbc3de204c47afcd9c32ce81321
+      internalID: -1742891745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dffd20aa10001a4b8401ba70c7a734b
+      internalID: -977385933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d788adb51b461344858402f6569e703
+      internalID: -2127726804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_17
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f298bba002ce43b3baa4bc53632fd
+      internalID: -1377794465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_18
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6f2bbd11290947bd7139d2aaa3b0b
+      internalID: 979698636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_19
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd30917fc3690449122e0feb01fcd6
+      internalID: -1791473049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_20
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 371
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3adf4427ad87e41ab45da853569faa
+      internalID: -994366569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eee1d367618b842a8f2ed3872e77de
+      internalID: 1421794776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e29ae70cfe48e4ebf54f9a146497ab
+      internalID: 1294619909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26c158d559f124e9eb68e5f3530ef8
+      internalID: -826099614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_24
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46e46404da01f4c8a4d18456d712b2
+      internalID: -1291168342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charged_25
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 321
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf3601f5438164bb555f836c8089c7
+      internalID: -1263173952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bc32338b277eb084190e1c6f88aad100
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +707,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Charged_00: 480899723
+      Charged_01: -1072537472
+      Charged_02: -1646993311
+      Charged_03: 1476700050
+      Charged_04: -831276822
+      Charged_05: 723583560
+      Charged_06: -2126428132
+      Charged_07: 1091016849
+      Charged_08: 20549661
+      Charged_09: -159198819
+      Charged_10: 943284554
+      Charged_11: -161690735
+      Charged_12: -1860961685
+      Charged_13: 128763371
+      Charged_14: -1742891745
+      Charged_15: -977385933
+      Charged_16: -2127726804
+      Charged_17: -1377794465
+      Charged_18: 979698636
+      Charged_19: -1791473049
+      Charged_20: -994366569
+      Charged_21: 1421794776
+      Charged_22: 1294619909
+      Charged_23: -826099614
+      Charged_24: -1291168342
+      Charged_25: -1263173952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -11,10 +11,11 @@ namespace Game.Editor.SpriteSlicing
 {
     public static class ExternalSheetSlicer
     {
-        private const string MenuPath = "Tools/Sprite/외부 캐릭터 시트 슬라이스 (전체)";
+        private const string MenuPath = "Tools/Sprite/외부 스프라이트 시트 슬라이스 (전체)";
         private const string Root = "Assets/90.ExternalAssets/";
         private const string KnightPack = Root + "Characters/Hormelz_8DirKnight";
         private const string GamekrazzyPack = Root + "Characters/Gamekrazzy_TopDownCharacter";
+        private const string CodeManuVfxPack = Root + "VFX/CodeManu_FreeVFX";
 
         // Sova Digital 팩: 폴더, json 파일 이름. 저장소에 없는(로컬 전용) 팩은 폴더가 없으면 건너뛴다.
         private static readonly (string Folder, string Json)[] SovaPacks =
@@ -47,6 +48,7 @@ namespace Game.Editor.SpriteSlicing
                 }
 
                 sheetCount += SliceGamekrazzy(GamekrazzyPack);
+                sheetCount += SliceCodeManuVfx(CodeManuVfxPack);
             }
             finally
             {
@@ -185,6 +187,53 @@ namespace Game.Editor.SpriteSlicing
                 }
 
                 SpriteSliceUtility.Apply(assetPath, frames, pivot);
+                count++;
+            }
+
+            return count;
+        }
+
+        // CodeManu VFX: 파일 이름 끝 "<폭>x<높이>" 가 프레임 크기인 격자 시트. 빈 칸(마지막 줄 나머지)은 뺀다.
+        //   스프라이트 이름 = <효과>_<프레임 2자리> (예: BigHit_07), 피벗 = 중심
+        private static int SliceCodeManuVfx(string packFolder)
+        {
+            if (!Directory.Exists(packFolder))
+            {
+                return 0;
+            }
+
+            int count = 0;
+            foreach (string pngPath in Directory.GetFiles(packFolder, "Effect_*.png"))
+            {
+                string assetPath = pngPath.Replace('\\', '/');
+                string[] parts = Path.GetFileNameWithoutExtension(assetPath).Split('_');
+                string[] cellText = parts[parts.Length - 1].Split('x');
+                if (parts.Length < 3 || cellText.Length != 2)
+                {
+                    continue;
+                }
+
+                var cell = new Vector2Int(int.Parse(cellText[0]), int.Parse(cellText[1]));
+                Vector2Int size = SpriteSliceUtility.ReadPngSize(assetPath);
+                int columns = size.x / cell.x;
+                int rows = size.y / cell.y;
+
+                var frames = new List<SliceFrame>(columns * rows);
+                for (int row = 0; row < rows; row++)
+                {
+                    for (int col = 0; col < columns; col++)
+                    {
+                        var rect = new RectInt(col * cell.x, row * cell.y, cell.x, cell.y);
+                        if (SpriteSliceUtility.IsEmpty(assetPath, rect))
+                        {
+                            continue;
+                        }
+
+                        frames.Add(new SliceFrame($"{parts[1]}_{frames.Count:00}", rect));
+                    }
+                }
+
+                SpriteSliceUtility.Apply(assetPath, frames, new Vector2(0.5f, 0.5f));
                 count++;
             }
 
