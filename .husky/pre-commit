@@ -1,0 +1,26 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+## C# 서식·네이밍 검사 (Tools/VerifyFormat.bat 과 같은 내용)
+## 자동 수정은 Tools/FormatAll.bat
+
+fail=0
+
+# 1. Unity 클라이언트 (.sln/.csproj 는 Unity 가 생성 → 없으면 건너뜀)
+if [ -f "2.5DProject.sln" ]; then
+  echo "[pre-commit] Unity 스크립트 검사: Assets/01.Scripts/"
+  dotnet format 2.5DProject.sln --verify-no-changes --severity warn --include Assets/01.Scripts/ || fail=1
+else
+  echo "[pre-commit] 경고: 2.5DProject.sln 이 없어 Unity 스크립트 검사를 건너뜁니다. (Unity 에디터에서 Assets > Open C# Project 로 생성)"
+fi
+
+# 2. C# 서버
+if [ -f "Server/Server.sln" ]; then
+  echo "[pre-commit] 서버 검사: Server/"
+  dotnet format Server/Server.sln --verify-no-changes --severity warn || fail=1
+fi
+
+if [ $fail -ne 0 ]; then
+  echo "[pre-commit] 서식/네이밍 규칙 위반. Tools/FormatAll.bat 로 자동 수정하거나 위 경고를 고친 뒤 다시 커밋하세요."
+  exit 1
+fi
