@@ -51,6 +51,13 @@ namespace Game.Editor.AssetImport
                 importer.alphaIsTransparency = true;
                 importer.wrapMode = TextureWrapMode.Clamp;
                 importer.maxTextureSize = 8192;
+
+                // UI 조각은 한 장 = 스프라이트 하나 (9-slice border 를 쓰려면 Single 이어야 한다)
+                if (relative.StartsWith("UI/"))
+                {
+                    importer.spriteImportMode = SpriteImportMode.Single;
+                }
+
                 return;
             }
 

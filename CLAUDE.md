@@ -29,6 +29,8 @@ Unity 6 (`6000.3.22f1`), URP 기반 **2.5D MMORPG 프로토타입**. 3D 월드 +
 | `10.Settings` | URP RP Asset, Volume Profile |
 | `90.ExternalAssets` | 외부 에셋 원본 (`<분류>/<작가>_<팩>/`). **수정 금지**, 라이선스 파일 유지 |
 
+`Assets/TextMesh Pro/`는 Unity가 관리하는 TMP Essential Resources 폴더라 번호 규칙 예외다 (TMP Settings 를 Resources 에서 찾으므로 옮기지 않는다).
+
 외부 에셋 중 재배포가 허용되지 않는 팩은 `.gitignore`에 있고, `Docs/Credits.md`의 링크에서 받아 넣는다.
 
 ## 커밋 / 포맷 규칙 (Husky.Net 훅)
