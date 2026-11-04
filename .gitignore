@@ -113,3 +113,10 @@ crashlytics-build.properties
 /Assets/90.ExternalAssets/UI/Soiam_PixelUIMobile.meta
 /Assets/90.ExternalAssets/UI/ELV_FreeInventory/
 /Assets/90.ExternalAssets/UI/ELV_FreeInventory.meta
+# 재배포 금지 (SovDigital: 단독 에셋 공유 금지 / Eris Esra: 에셋 팩 형태 사용 금지)
+/Assets/90.ExternalAssets/Monsters/SovDigital_Skeleton/
+/Assets/90.ExternalAssets/Monsters/SovDigital_Skeleton.meta
+/Assets/90.ExternalAssets/Monsters/SovDigital_Wolf/
+/Assets/90.ExternalAssets/Monsters/SovDigital_Wolf.meta
+/Assets/90.ExternalAssets/Characters/ErisEsra_CharacterTemplate/
+/Assets/90.ExternalAssets/Characters/ErisEsra_CharacterTemplate.meta

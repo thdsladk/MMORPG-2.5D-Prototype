@@ -20,11 +20,17 @@
 | UI | [Pixel UI Mobile Casual](https://soiam.itch.io/mobile-ui) / soiam | zip 안 라이선스 없음 (페이지: 무료, 크레딧 권장) | **제외** | `UI/Soiam_PixelUIMobile` | `MobileCasualUI_Korean.zip` 내용 |
 | UI | [Free Inventory for RPG](https://elvgames.itch.io/free-inventory-for-rpg-or-farming-games) / ElvGames | 사용·수정 가능, 판매 금지, 크레딧 권장 (재배포 조항 없음) | **제외** | `UI/ELV_FreeInventory` | zip 내용 |
 | SFX | [RPG Essentials SFX - Free](https://leohpaz.itch.io/rpg-essentials-sfx-free) / Leohpaz | 무료 사용, 재배포 금지 | **제외** | `SFX/Leohpaz_RPGEssentialsSFX` | `*_SFX` 폴더 5개 (`Cover.png` 제외) |
+| 캐릭터 | [8-direction Top Down Character](https://gamekrazzy.itch.io/8-direction-top-down-character) / Gamekrazzy | 퍼블릭 도메인 (작가 댓글 기준, 페이지에 라이선스 필드 없음) | 포함 | `Characters/Gamekrazzy_TopDownCharacter` | `TopDownCharacter.zip` 내용 |
+| 캐릭터 | [Character Templates Pack](https://erisesra.itch.io/character-templates-pack) / Eris Esra | 게임 사용 가능, 에셋 팩 형태 사용·재판매 금지, 무료 제품은 크레딧+링크 필수 | **제외** | `Characters/ErisEsra_CharacterTemplate` | 템플릿 zip의 `16x16`, `16x32`, `Read Me.txt` + 표정 시트 zip의 png → `ExpressionSheets/` (`.aseprite` 제외) |
+| 몬스터 | [Free Skeleton](https://sovdigital.itch.io/free-skeleton) / Sova Digital | 게임 사용 가능, 단독 에셋 재배포 금지, ML 학습·NFT 금지 | **제외** | `Monsters/SovDigital_Skeleton` | `characters/skeleton/sheets/*.png` (`_smooth` 제외) → `Sheets/`, `skeleton.json`, LICENSE, README |
+| 몬스터 | [Free Wolf](https://sovdigital.itch.io/free-wolf) / Sova Digital | 위와 같음 | **제외** | `Monsters/SovDigital_Wolf` | `characters/wolf/sheets/*.png` (`_smooth` 제외) → `Sheets/`, `wolf.json`, LICENSE, README |
 
-## 아직 받지 않음 (계획에 있던 팩)
+크레딧 표기 (게임 내 크레딧 화면용): Characters by Hormelz, SovDigital, Gamekrazzy · Original character template created by Eris Esra (https://erisesra.itch.io/character-templates-pack) · VFX by CodeManu, nerijs · Icons by Caz · Font "Silver" by Poppy Works · 3D by Kay Lousberg, WizP, Ely Dev · UI by soiam, ElvGames · SFX by Leohpaz
 
-| 분류 | 팩 | 용도 |
-|---|---|---|
-| 캐릭터 | [8 Directional 2DHD Pixel Art Character](https://hormelz.itch.io/8-directional-char) / Hormelz (CC0) | 타 플레이어/NPC |
-| 캐릭터 | [FREE TopDown 8-directional Knight](https://smallscaleint.itch.io/topdown-8-directional-knight-character) / SmallScale | 적 NPC |
-| 몬스터 | [Monsters](https://hensji.itch.io/monsters) / hensji (CC0) | 필드 잡몬스터 |
+## 링크가 사라져 대체한 팩
+
+| 원래 팩 | 대체 |
+|---|---|
+| Hormelz 8 Directional 2DHD Character | Gamekrazzy Top Down Character, Eris Esra 템플릿 (해상도 차이 큼) |
+| SmallScale TopDown 8-directional Knight | Hormelz 기사 색 변경으로 대체 예정 |
+| hensji Monsters | Sova Digital Skeleton, Wolf |

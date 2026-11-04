@@ -18,6 +18,10 @@ namespace Game.Editor.AssetImport
         private static readonly Dictionary<string, int> PixelsPerUnitByPack = new Dictionary<string, int>
         {
             { "Characters/Hormelz_8DirKnight", 64 },
+            { "Characters/Gamekrazzy_TopDownCharacter", 16 },
+            { "Characters/ErisEsra_CharacterTemplate", 16 },
+            { "Monsters/SovDigital_Skeleton", 64 },
+            { "Monsters/SovDigital_Wolf", 64 },
         };
 
         private static readonly string[] SpriteCategories = { "Characters/", "Monsters/", "VFX/", "UI/", "Icons/" };
